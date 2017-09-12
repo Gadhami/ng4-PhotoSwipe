@@ -1,2 +1,2 @@
 # ng4-PhotoSwipe
-How to use PhotoSwipe in Angular 4+ project
+Step-by-step guide on how to use PhotoSwipe in Angular 4+ project

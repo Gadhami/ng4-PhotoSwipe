@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+.btn {
+    border-radius: 0;    
+}
+.btn.blue
+{
+    background: #207bca;
+    box-shadow: 0 0 8px 1px hsla(208, 100%, 93%, 1);
+    /* border: 1px solid hsla(208, 100%, 94%, 1); */
+    color: aliceblue;
+}
